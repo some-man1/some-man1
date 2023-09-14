@@ -1,5 +1,5 @@
 # Alsalam alaukum <img alt="" width="45px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> 
-## I am a Chess master  <img align="left" alt="" width="35px" src="https://github.com/some-man1/some-man1/assets/142589483/f8a62ad5-53c0-4100-90fd-ff79e13a1df8" />
+## I am a Chess master  <img  alt="" width="35px" src="https://github.com/some-man1/some-man1/assets/142589483/f8a62ad5-53c0-4100-90fd-ff79e13a1df8" />
 ## I do some photo edit 🖼️ with 	![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ## The programing language i know:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
