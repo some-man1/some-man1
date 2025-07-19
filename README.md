@@ -1,6 +1,5 @@
-# Alsalam alaukum <img alt="" width="45px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> 
-## I do some photo edit 🖼️ with 	![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-## The programing language i know:
+# <img alt="" width="45px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> 
+## programing language:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
